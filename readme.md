@@ -19,5 +19,5 @@
 
 
 ---
-GIT logo by Jason Long. https://git-scm.com/dowloads/logos, license [CC BY 3.0](https://creativecommons.org/license/by/3.0/) 
+GIT logo by Jason Long. https://git-scm.com/dowloads/logos, license [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 
 
